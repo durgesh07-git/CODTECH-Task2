@@ -1,4 +1,4 @@
-**Name:** DURGESH SINGH
+**Name:** Durgesh Singh
 
 **Company:** CODTECH IT SOLUTIONS
 
