@@ -15,7 +15,7 @@ The primary objective of the BasicCalculator program is to provide a simple comm
                  It then presents a menu of arithmetic operations and asks the user to select one.
   
 - **Operation Selection**:The user selects an operation by entering a corresponding number (1 for addition, 2 for subtraction, etc.).
-- 
+  
 - **Performing Calculations**:The program calls the performOperation method, which uses a switch statement to determine which arithmetic operation to execute based on the user's choice.
                               Each operation (addition, subtraction, multiplication, division) is handled by its respective method.
   
@@ -40,7 +40,7 @@ The primary objective of the BasicCalculator program is to provide a simple comm
 - **Educational Tool**: This program serves as a practical example for beginners learning Java, demonstrating fundamental programming concepts such as input/output, control structures, and method creation.
 
 ### Conclusion
-The BasicCalculator program is a simple yet effective tool for performing basic arithmetic operations. Its clear structure and user-friendly interface make it accessible to users of all skill levels. The design choices made in the program promote usability, maintainability, and scalability, ensuring that it can be adapted to meet future needs. This program is an excellent starting point for anyone looking to learn more about Java programming and basic computational logic.
+The BasicCalculator program is a simple yet effective tool for performing basic arithmetic operations. Its clear structure and user-friendly interface make it accessible to users of all skill levels. The design choices made in the program promote usability, maintainability, and scalability, ensuring that it can be adapted to meet future needs.
 
 
 
