@@ -6,7 +6,7 @@
 
 **Domain:** JAVA PROGRAMMING
 
-**Duration:** December to Jan 2024-25
+**Duration:** December to January 2024-25
 
 **Mentor:** 
 
@@ -45,7 +45,7 @@ The primary objective of the BasicCalculator program is to provide a simple comm
 - **Educational Tool**: This program serves as a practical example for beginners learning Java, demonstrating fundamental programming concepts such as input/output, control structures, and method creation.
 
 ### Conclusion
-The BasicCalculator program is a simple yet effective tool for performing basic arithmetic operations. Its clear structure and user-friendly interface make it accessible to users of all skill levels. The design choices made in the program promote usability, maintainability, and scalability, ensuring that it can be adapted to meet future needs.
+The BasicCalculator program is a simple yet effective tool for performing basic arithmetic operations.The design choices made in the program promote usability, maintainability, and scalability, ensuring that it can be adapted to meet future needs.
 
 
 
