@@ -13,7 +13,8 @@
 
 ## Overview of the Project  
 
-![Screenshot 2024-12-25 083854](https://github.com/user-attachments/assets/967df8fd-1519-4a27-a94f-16b8dd6f8585)
+![Screenshot 2024-12-25 083621](https://github.com/user-attachments/assets/c8cb1a26-7c19-4f30-94f5-58f0acdc44e9)
+
 
 ## Project: **Java Program on BasicCalculator**
   
