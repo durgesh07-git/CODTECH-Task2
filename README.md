@@ -13,7 +13,7 @@
 
 ## Overview of the BasicCalculator Program
 
-- **Project:** **Java Program on BasicCalculator**
+## Project: **Java Program on BasicCalculator**
   
 ### Objective
 The primary objective of the BasicCalculator program is to provide a simple command-line interface for performing basic arithmetic operations. Users can input two numbers and choose an operation to perform, with the program returning the result of that operation.
