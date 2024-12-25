@@ -1,5 +1,3 @@
-![Screenshot 2024-12-25 083854](https://github.com/user-attachments/assets/967df8fd-1519-4a27-a94f-16b8dd6f8585)
-
 **Name:** Durgesh Singh
 
 **Company:** CODTECH IT SOLUTIONS
