@@ -6,7 +6,7 @@
 
 **Domain:** JAVA PROGRAMMING
 
-**Duration:** December to January 2024-25
+**Duration:** DECEMBER 12th, 2024 to JANUARY 12th, 2025.
 
 **Mentor:** Neela Santosh Kumar
 
